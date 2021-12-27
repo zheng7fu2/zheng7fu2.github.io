@@ -1,3 +1,7 @@
-#test
+---
+layout: default
+title: About
+---
+# About page
 
-1.test
+This page tells you a little bit about me.
