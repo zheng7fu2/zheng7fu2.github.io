@@ -8,3 +8,5 @@ nav:
   link: /
 - name: About
   link: /about.html
+
+theme: jekyll-theme-minimal
