@@ -5,3 +5,8 @@
 安装第三方程序:
  apt install  fortunes-zh w3m  hunspell xmlstarlet imagemagick zip unzip xclip cmake clang pandoc universal-ctags global libreoffice pip sdcv ripgrep sbcl ffmpeg shellcheck mkvtoolnix
 在Windows上通过[MobaXterm ](https://mobaxterm.mobatek.net/)终端访问Debian,运行Emacs.
+
+
+---
+
+安装cnfont 配置中英文对齐.
