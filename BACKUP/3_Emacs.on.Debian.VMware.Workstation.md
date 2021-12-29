@@ -18,3 +18,8 @@
 fonts-hanazono 包  https://salsa.debian.org/fonts-team/fonts-hanazono
 http://fonts.jp/hanazono/
 
+
+
+---
+
+不能选择区域
