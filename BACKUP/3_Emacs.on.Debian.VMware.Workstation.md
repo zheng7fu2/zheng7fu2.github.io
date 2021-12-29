@@ -14,3 +14,5 @@
 ---
 
 没有字体,安装 fonts-noto 包
+
+fonts-hanazono 包
