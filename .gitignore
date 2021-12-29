@@ -4,3 +4,7 @@ Gemfile.lock
 *.gem
 .jekyll-cache/
 .jekyll-cache
+__pycache__
+nohup.out
+.git-credentials
+venv/
