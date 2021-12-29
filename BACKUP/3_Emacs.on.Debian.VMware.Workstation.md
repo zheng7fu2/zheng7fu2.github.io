@@ -14,5 +14,7 @@
 ---
 
 没有字体,安装 fonts-noto 包
+ 
+fonts-hanazono 包  https://salsa.debian.org/fonts-team/fonts-hanazono
+http://fonts.jp/hanazono/
 
-fonts-hanazono 包
