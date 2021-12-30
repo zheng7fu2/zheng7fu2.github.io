@@ -29,3 +29,10 @@ http://fonts.jp/hanazono/
 > 不能选择区域
 
 更换了 [emacs-lucid 版本](https://packages.debian.org/bullseye/emacs-lucid)就好了.  GTK版本有问题.
+
+---
+
+字体设置参考以下两个页面:
+https://archive.casouri.cat/note/2019/emacs-%E5%AD%97%E4%BD%93%E4%B8%8E%E5%AD%97%E4%BD%93%E9%9B%86/index.html
+
+http://xahlee.info/emacs/emacs/emacs_list_and_set_font.html
