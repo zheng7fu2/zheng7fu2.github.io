@@ -23,3 +23,9 @@ http://fonts.jp/hanazono/
 ---
 
 不能选择区域
+
+---
+
+> 不能选择区域
+
+更换了 [emacs-lucid 版本](https://packages.debian.org/bullseye/emacs-lucid)就好了.  GTK版本有问题.
